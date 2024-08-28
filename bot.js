@@ -69,4 +69,4 @@ async function playYouTube(url, message) {
     message.reply('Playing from YouTube.');
 }
 
-client.login('MTI3ODQ2MTM4MDkyNzk1MDkxMA.GVJgpf.ORSpFujybuxorqKWIR5xcrMBQippxDEiQAR2bI');
+client.login('YOUR_TOKEN_BOT');
